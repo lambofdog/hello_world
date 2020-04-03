@@ -1,17 +1,15 @@
-// a simple program to practice common Github commands 
+//a simple program to practice common Github commands 
 
 public class hello {
 
-    public static void main(String [] args) {
+	public static void main(String[] args) {
 
-        // initialize variables
-        String firstName = "Elizabeth";
-        String lastName = "Jones";
-	
+		// initialize variables
+		String firstName = "Brian";
+		String lastName = "McKenna";
+
 		// output welcome message
-        System.out.println("Hello Class!");
+		System.out.println("Hello, my name is "+firstName+" "+lastName+"!");
 
-
-    }
+	}
 }
-
